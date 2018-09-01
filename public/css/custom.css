@@ -1,0 +1,150 @@
+body {
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+    font-family: 'Muli', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    overflow-x: hidden;
+    color: #5a5a5a; }
+
+
+    .contact_details{
+        background-color: #F5F5F5;
+        font-family: "Times New Roman", Georgia, Serif;
+        font-size: 16px;
+    }
+    .contact_details .col-sm-7{
+        border-right: 0.5px #778899;
+        border-right-style: solid;
+    }
+    .contact_details .col-sm-5 ul li{
+        margin-left: 100px;
+    }
+    .contact_details .col-sm-5 p{
+        margin-left: 100px;
+    }
+    .hero-image {
+        background-image: url("../images/banner2.jpg");
+        height: 50%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        opacity: 0.5;
+        filter: alpha(opacity=50);
+    }
+
+    .hero-text {
+        text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+    }
+    .hero-text h1{
+        color: #FFFAF0;
+        font-size: 50px;
+        font-family: "Times New Roman", Georgia, Serif;
+    }
+    .hero-text p{
+        color: #FFFFFF;
+        font-family: "Times New Roman", Georgia, Serif;
+        font-size: 20px;
+    }
+    .career{
+        height: 500px;
+    }
+    .career .btn-danger{
+        float: right;
+        margin-top: -50px;
+    }
+
+
+    .events_text {
+        text-align: center;
+    }
+    .events_text h1{
+        color: white;
+        font-size: 50px;
+        padding: 90px 0;
+        text-transform: capitalize;
+        margin: 0 !important;
+    }
+    .container{
+        margin-top: 10px;
+        
+    }
+    .row{
+        margin-top:20px;
+        margin-left:20px;
+        margin-right:20px;
+        margin-bottom:20px;
+    }
+    
+    
+
+    
+    .container .event-time{
+        height: 100px;
+        background-color: #F5F5F5;
+    }
+    .event-time form{
+        margin-left: 50px;
+    }
+    .event-time .btn-primary{
+        margin-top: 25px;
+    }
+    .event-time .dropdown{
+        float: right;
+        margin-top:-70px; 
+        margin-right: 50px;
+        text-decoration: none;
+
+    }
+    .dropdown .btn-default{
+        background-color: #F5F5F5;
+        border: none;
+    }
+    .dropdown .dropdown-menu{
+        background-color: #F5F5F5;
+    }
+    .container h2{
+        margin-top: 30px;
+        color:  #778899;
+        font-family: "Times New Roman", Georgia, Serif;
+    }
+    .container .tribe-events-list-separator-month h4 {
+        font-weight: normal;
+        text-transform: uppercase;
+        font-size: 18px;
+        margin: 1.25em auto;
+        margin-top: 20px;
+        color:  #778899;
+
+        font-family: "Times New Roman", Georgia, Serif;
+
+    }
+    .container .col-sm-4 p{
+        margin-top: -40px;
+        font-family: "Times New Roman", Georgia, Serif;
+        padding: 0 5px;
+    }
+    .col-sm-4 .btn-default{
+        margin-top: 40px;
+    }
+    .col-sm-4 .table{
+        font-family: "Times New Roman", Georgia, Serif;
+    }
+        
+.events_image {
+    background-repeat: no-repeat;
+background-size: cover;
+}
+   img
+         {
+          max-width: 100%;
+          height: auto;
+        }
+
